@@ -1,4 +1,4 @@
-# Students page
+# Students List
 
 Using Vue & Vue Router, set up:
 
